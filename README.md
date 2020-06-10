@@ -50,6 +50,7 @@ To generate the starter code, follow the steps given below
     - Open your ubuntu or cmd terminal and execute the following command
       - ```ng new app-name```
       - for example, ng new super-wars
+      
     - To create a new component, execute the command 
       - ``` ng generate component component-name```
       - example, ng generate component contacts
